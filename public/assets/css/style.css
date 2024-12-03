@@ -1,0 +1,12 @@
+.nav-link.active {
+    background-color: #f0f0f0; /* Warna latar untuk menu aktif */
+    color: #5e72e4; /* Warna teks untuk menu aktif */
+    font-weight: bold;
+  }
+  
+  .nav-link.active .icon i {
+    color: #5e72e4; /* Warna ikon saat menu aktif */
+  }
+  
+/* style.css */
+
